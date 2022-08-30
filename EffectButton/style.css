@@ -36,7 +36,7 @@ a:nth-child(2) {
 
 span {
     position: absolute;
-    background: #fff;
+    background: #2bfd86 ;
     transform: translate(-50%, -50%);
     pointer-events: none;
     border-radius: 50%;
@@ -47,7 +47,7 @@ span {
     0% {
         width: 0px;
         height: 0px;
-        opacity: .7;
+        opacity: 1;
     }
 
     100% {
